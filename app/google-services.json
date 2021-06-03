@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452424082604",
+    "project_id": "memesxd-4ae3a",
+    "storage_bucket": "memesxd-4ae3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452424082604:android:7145d16df0502024f1eb09",
+        "android_client_info": {
+          "package_name": "com.omkarcodes.memesxd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452424082604-hutac23csle9f03edm09urcga2etpios.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOhl6eLquLtBGmz7jd_eLi9ZFFrlfoBRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452424082604-hutac23csle9f03edm09urcga2etpios.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
